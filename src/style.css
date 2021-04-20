@@ -14,6 +14,10 @@ h1 {
   border: none;
 }
 
+.btn-primary:hover {
+  background-color: #1e6f5c;
+}
+
 .time-date {
   margin-top: 15px;
   color: #494a4a;
@@ -70,11 +74,12 @@ li {
 }
 
 .forecast {
-  margin-top: 30px;
+  margin-top: 10px;
   padding: 20px;
   border: 1px solid #e7e8ee;
   border-radius: 10px;
   text-align: center;
+  color: #494a4a;
 }
 
 .weather-forecast-day {
